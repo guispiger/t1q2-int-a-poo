@@ -24,3 +24,4 @@ Desenvolvimento)
 
 Para executar o arquivo compactado digite no terminal
 `` java -jar sistemaRh.java ``
+Requer Java 18.0.2
