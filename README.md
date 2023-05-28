@@ -21,3 +21,6 @@ valor do salário).
 8. A empresa possui exatamente 3 departamentos (Gerencia, Operações, Pesquisa e
 Desenvolvimento)
 9. Funcionários devem ser obrigatoriamente vinculados a um departamento.
+
+Para executar o arquivo compactado digite no terminal
+`` java -jar sistemaRh.java ``
